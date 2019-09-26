@@ -12,4 +12,4 @@ $ gardnr add driver hue driver:Hue -c bridge_address=192.168.1.2 -c light_number
 
 *NOTE*
 
-To register GARDNR with the bridge, you must manually run either the power on or off command 30 seconds after pressing the button on the Bridge. This only needs to be done once.
+To register GARDNR with the Bridge, you must manually run either the power on or off command within 30 seconds after pressing the button on the Bridge. This only needs to be done once.
