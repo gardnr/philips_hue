@@ -10,6 +10,6 @@ $ pip install -r requirements.txt
 $ gardnr add driver hue driver:Hue -c bridge_address=192.168.1.2 light_number=1
 ```
 
-*NOTE*
+#### NOTE
 
 To register GARDNR with the Bridge, you must manually run either the power on or off command within 30 seconds after pressing the button on the Bridge. This only needs to be done once.
